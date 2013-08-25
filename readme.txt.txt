@@ -1,0 +1,1 @@
+Small library written in C# .NET which basically imitates System.Linq.Enumerable extension class with some additional functionality (Map, Filter, Reduce). Library uses many functional language features such as partial application, closures, lazy evaluation, iterator yielding, and many other fundamental design patterns.
